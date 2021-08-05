@@ -24,7 +24,8 @@ id: DANDI:000116/draft
 identifier: DANDI:000116
 keywords: []
 license: []
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000116/versions/draft/assets/
 name: Test_upload_LiZhang_SpinalCord
 protocol: []
 relatedResource: []
