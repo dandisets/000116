@@ -3,12 +3,14 @@
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
 about: []
-access: []
+access:
+- schemaKey: AccessRequirements
+  status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Zhang, Guang-Wei (2022) Test_upload_LiZhang_SpinalCord (Version draft) [Data
+citation: Zhang, Guang-Wei (2024) Test_upload_LiZhang_SpinalCord (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000116/draft
 contributor:
 - affiliation: []
@@ -30,7 +32,7 @@ manifestLocation:
 name: Test_upload_LiZhang_SpinalCord
 protocol: []
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
